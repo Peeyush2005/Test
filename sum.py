@@ -9,6 +9,4 @@ if __name__ == "__main__":
 
     #this is first commit for test branch
     #commits in sum.py
-#this is first commit for test2 branch
-    #commits in sum.py
 
